@@ -1,9 +1,9 @@
 import { useState, type FormEvent } from 'react'
 import { Link } from 'react-router-dom'
 import { Trophy, ArrowLeft } from 'lucide-react'
-import { supabase } from '../../lib/supabase'
-import { Input } from '../../components/ui/Input'
-import { Button } from '../../components/ui/Button'
+import { supabase } from '../lib/supabase'
+import { Input } from '../components/ui/Input'
+import { Button } from '../components/ui/Button'
 import toast from 'react-hot-toast'
 
 export function ForgotPasswordPage() {
