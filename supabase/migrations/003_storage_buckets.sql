@@ -1,0 +1,2 @@
+-- Storage buckets applied via Supabase MCP during project setup.
+-- Buckets: avatars (public), match-screenshots (private), tournament-banners (public)

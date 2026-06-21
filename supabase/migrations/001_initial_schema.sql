@@ -1,0 +1,3 @@
+-- See README for full migration. Applied via Supabase MCP during project setup.
+-- Run this in Supabase SQL Editor if setting up a new project.
+-- Full SQL is in the project history / Supabase dashboard under Database > Migrations.

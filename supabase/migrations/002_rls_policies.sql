@@ -1,0 +1,2 @@
+-- RLS policies applied via Supabase MCP during project setup.
+-- See Supabase dashboard under Database > Policies.
