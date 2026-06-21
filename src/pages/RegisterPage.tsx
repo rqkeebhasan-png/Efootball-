@@ -1,10 +1,10 @@
 import { useState, type FormEvent } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { Trophy } from 'lucide-react'
-import { supabase } from '../../lib/supabase'
-import { Input } from '../../components/ui/Input'
-import { Button } from '../../components/ui/Button'
-import { Select } from '../../components/ui/Form'
+import { supabase } from '../lib/supabase'
+import { Input } from '../components/ui/Input'
+import { Button } from '../components/ui/Button'
+import { Select } from '../components/ui/Form'
 import toast from 'react-hot-toast'
 
 const COUNTRIES = [
